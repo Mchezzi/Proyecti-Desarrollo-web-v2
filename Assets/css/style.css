@@ -1,0 +1,22 @@
+.navbar{
+    background-color: rgb(203, 182, 165) !important;    
+}
+
+.dropdown-menu{
+    background-color: rgb(203, 182, 165) !important;    
+}
+
+
+#DecoHome {
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    height: 40px;
+    background-color: rgb(203, 182, 165) !important; ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    font-size: 15px;
+}
+
